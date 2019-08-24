@@ -8,7 +8,7 @@
 "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/VLC3.0.13_201903/VLC_3.0.13.apk",  
-"update_isforce":false,  
+"update_isforce":true,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.

@@ -1,8 +1,8 @@
 {
-"survey_title": "",  
-"survey_content": "",  
-"survey_type": "",  
-"survey_link": "",  
+"survey_title": "c",  
+"survey_content": "c",  
+"survey_type": "c",  
+"survey_link": "c",  
 "left_menu_image":"https://i.imgur.com/7BIRu4g.png",  
 "lite_mode":false,
 "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
@@ -14,7 +14,7 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.3.0</br>
+<br>- Version: 2.4.0</br>
 <br>- Size: 16.8MB</br>
 <br>- Filelinked code: 30837432</br>
 <br></br>

@@ -5,13 +5,13 @@
 "survey_link": "",  
 "left_menu_image":"https://i.imgur.com/yjf64VQ.png",  
 "lite_mode":false,
-"content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
+"content_not_support_audio":"This movie has audio which is not supported by HaHaKaarFlix, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/VLC3.0.13_201903/VLC_3.0.13.apk",  
 "update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
-"update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
+"update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapkyomee.me) to support developer.
 <br></br>
 <b>Release Info</b>
 <br>- Version: 2.3.0</br>
@@ -35,7 +35,7 @@
 "ads_priority":"amazon",
 "enable_install_player":true,
 "title_player":"One Player",
-"description_player":"Best player to work with BeeTV. Less ads and better streaming!",
+"description_player":"Best player to work with HaHaKaarFLix. Less ads and better streaming!",
 "link_download_player":"https://dl.dropboxusercontent.com/s/lx1m5jm1wbvnvw2/OnePlayer_v1.0.8r.apk",
 "package_name_player":"com.one.player",
 "enable_amz":true,

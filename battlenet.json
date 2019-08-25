@@ -26,7 +26,7 @@
 <br>- Amazon Firestick, FireTV now can use menu button to add movie to watchlist.</br>
 <br>- Fix text color and focus color on some devices.</br>",  
 "update_build":"41",  
-"update_version":"2.4.0",  
+"update_version":"2.3.0",  
 "update_link":"https://github.com/beetvapk/beetv/releases/download/2.3.0/BeeTV_v2.3.0.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/eeu4mdpffho3h8z/BeeTV_v2.3.0.apk",
 "pkg_uninstall":"me.beetv.movieguide",  

@@ -1,9 +1,9 @@
 {
-"survey_title": "Update1",  
-"survey_content": "LOL",  
-"survey_type": "update",  
-"survey_link": "https://throwbin.io/CkVzRSV",  
-"left_menu_image":"http://2.bp.blogspot.com/-tpaVmRTrTtI/VJglZSESRzI/AAAAAAAAAKs/SFyrrEXW3mM/s1600/onlinelogomaker-112714-15461.png",  
+"survey_title": "",  
+"survey_content": "",  
+"survey_type": "",  
+"survey_link": "",  
+"left_menu_image":"https://i.imgur.com/7BIRu4g.png",  
 "lite_mode":false,
 "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
@@ -14,9 +14,9 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.4.0</br>
+<br>- Version: 2.3.0</br>
 <br>- Size: 16.8MB</br>
-<br>- Filelinked code: 30837433</br>
+<br>- Filelinked code: 30837432</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Fix emergency bug app not loading.</br>
@@ -25,10 +25,10 @@
 <br>- Add option to choose watchlist, calendar and collection as default screen.</br>
 <br>- Amazon Firestick, FireTV now can use menu button to add movie to watchlist.</br>
 <br>- Fix text color and focus color on some devices.</br>",  
-"update_build":"40",  
+"update_build":"41",  
 "update_version":"2.4.0",  
-"update_link":"https://github.com/beetvapk/beetv/releases/download/2.3.0/BeeTV_v2.4.0.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/eeu4mdpffho3h8z/BeeTV_v2.4.0.apk",
+"update_link":"https://github.com/beetvapk/beetv/releases/download/2.3.0/BeeTV_v2.3.0.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/eeu4mdpffho3h8z/BeeTV_v2.3.0.apk",
 "pkg_uninstall":"me.beetv.movieguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",

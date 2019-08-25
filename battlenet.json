@@ -49,7 +49,7 @@
 "adoech_enable":false,
 "ogr_key":"OGY-2EE43D260DB3",
 "openload_domain":"https://openload.co",
-"is_banner_auto":false,
+"is_banner_auto":true,
 "banner_photo":"https://i.imgur.com/OyUGqyn_d.jpg",
 "banner_link":"",
 "banner_text":"",

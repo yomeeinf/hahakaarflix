@@ -11,7 +11,7 @@
 "update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
-"update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapkyomee.me) to support developer.
+"update_content":"You cant update if you are using modded version. Please use official version on our homepage(yomee.me) to support developer.
 <br></br>
 <b>Release Info</b>
 <br>- Version: 2.3.0</br>
@@ -27,8 +27,8 @@
 <br>- Fix text color and focus color on some devices.</br>",  
 "update_build":"41",  
 "update_version":"2.3.0",  
-"update_link":"https://github.com/beetvapk/beetv/releases/download/2.3.0/BeeTV_v2.3.0.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/eeu4mdpffho3h8z/BeeTV_v2.3.0.apk",
+"update_link":"https://instagram.com/logictrendz",  
+"update_link_android4":"",
 "pkg_uninstall":"me.beetv.movieguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",

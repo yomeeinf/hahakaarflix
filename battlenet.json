@@ -1,13 +1,8 @@
 {
-"survey_title": "Hello World",  
-"survey_content": "You cant update if you are using modded version. Please use official version on our homepage(yomee.me) to support developer.
-<br></br>
-<b>Release Info</b>
-<br>- Version: 2.3.0</br>
-<br>- Size: 16.8MB</br>
-<br>- Filelinked code: 30837432</br>",  
-"survey_type": "Social",  
-"survey_link": "https://www.instagram.com/yomee.inf/",  
+"survey_title": "",  
+"survey_content": "",  
+"survey_type": "",  
+"survey_link": "",  
 "left_menu_image":"https://i.imgur.com/yjf64VQ.png",  
 "lite_mode":false,
 "content_not_support_audio":"This movie has audio which is not supported by HaHaKaarFlix, please install VLC player to play audio.",  

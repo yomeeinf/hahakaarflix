@@ -1,8 +1,13 @@
 {
-"survey_title": "",  
-"survey_content": "",  
-"survey_type": "",  
-"survey_link": "",  
+"survey_title": "Hello World",  
+"survey_content": "You cant update if you are using modded version. Please use official version on our homepage(yomee.me) to support developer.
+<br></br>
+<b>Release Info</b>
+<br>- Version: 2.3.0</br>
+<br>- Size: 16.8MB</br>
+<br>- Filelinked code: 30837432</br>",  
+"survey_type": "Social",  
+"survey_link": "https://www.instagram.com/yomee.inf/",  
 "left_menu_image":"https://i.imgur.com/yjf64VQ.png",  
 "lite_mode":false,
 "content_not_support_audio":"This movie has audio which is not supported by HaHaKaarFlix, please install VLC player to play audio.",  
@@ -50,10 +55,10 @@
 "ogr_key":"OGY-2EE43D260DB3",
 "openload_domain":"https://openload.co",
 "is_banner_auto":true,
-"banner_photo":"https://i.imgur.com/OyUGqyn_d.jpg",
-"banner_link":"https://i.imgur.com/OyUGqyn_d.jpg",
-"banner_text":"Hey World",
-"priorirty_custom_ads":true,
+"banner_photo":"",
+"banner_link":"",
+"banner_text":"",
+"priorirty_custom_ads":false,
 "site_cookie":"http://www5.123movies.ag, https://hdo.to, https://www1.movie4k.is,https://afdah.info/embed,https://www4.watchfree.ac,https://www.123movies.estate,http://m4ufree.tv",
 "collection":"eyJpbmZvIjogWyB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDExMjMzNiwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIjIwMTkgVFYgU2hvd3MiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogMTEyMzM0LCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiMjAxOSBNb3ZpZXMiIH0seyAiaWQiOiAiIiwgImxpc3RfaWQiOiA4NDIzNSwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIk1hcnZlbCBVbml2ZXJzZSIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiA5MjU4OCwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIldXRSAmIFVGQyBQUFYiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogMTA1MTk0LCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiTmV0ZmxpeCBTaG93cyIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiAxMDUyMTAsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICJIQk8gU2hvd3MiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogMTA1MjE2LCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiTkJDIFNob3dzIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEwNTIwMSwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIkFtYXpvbiBTaG93cyIgfSx7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEwNTIxNywgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIkJCQyBPbmUgU2hvd3MiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogMTA1MTk3LCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiSHVsdSBTaG93cyIgfV0gfQ=="
 }

@@ -14,7 +14,7 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(yomee.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.3.0</br>
+<br>- Version: Rishab Gandu 2.3.0</br>
 <br>- Size: 16.8MB</br>
 <br>- Filelinked code: 30837432</br>
 <br></br>
@@ -25,8 +25,8 @@
 <br>- Add option to choose watchlist, calendar and collection as default screen.</br>
 <br>- Amazon Firestick, FireTV now can use menu button to add movie to watchlist.</br>
 <br>- Fix text color and focus color on some devices.</br>",  
-"update_build":"40",  
-"update_version":"2.3.0",  
+"update_build":"41",  
+"update_version":"2.3.1",  
 "update_link":"https://instagram.com/logictrendz",  
 "update_link_android4":"",
 "pkg_uninstall":"me.beetv.movieguide",  

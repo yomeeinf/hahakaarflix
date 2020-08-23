@@ -9,7 +9,7 @@
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/VLC3.0.13_201903/VLC_3.0.13.apk",  
 "update_isforce":false,  
-"update_isapk":true,  
+"update_isapk":false,  
 "update_title":"Update new version",  
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(yomee.me) to support developer.
 <br></br>
